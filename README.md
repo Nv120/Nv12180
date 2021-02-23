@@ -5,4 +5,4 @@
 - 📫 How to reach me: Nv12#8623 (Discord) https://t.me/Nv12060 (Telegram)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play Guitar :)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nv12180&show_icons=true&count_private=true&bg_color=25,100000,165ba7,00add0&title_color=rnh&text_color=rnh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nv12180&show_icons=true&count_private=true&bg_color=25,100000,b30000,00add0&title_color=rnh&text_color=rnh" />
