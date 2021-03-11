@@ -1,6 +1,6 @@
 ### Hey =)!
 
-- 🔭 I’m currently working on: <a href="https://github.com/ZeryPvP">@ZeryPvP</a>
+- 🔭 I’m currently working on: <a href="https://github.com/NavyPvP">@NavyPvP</a>
 - 🌱 I’m currently learning: HTML, CSS, Java.
 - 📫 How to reach me: Nv12#8623 (Discord) https://t.me/Nv12060 (Telegram)
 - 😄 Pronouns: he/him
