@@ -1,6 +1,5 @@
 ### Hey =)!
 
-- 🔭 I’m currently working on: <a href="https://github.com/NavyPvP">@NavyPvP</a>
 - 🌱 I’m currently learning: JavaScript, Java.
 - 🔭 I currently know theese languages: HTML, CSS. 
 - 📫 How to reach me: Nv12#8623 (Discord) https://t.me/Nv12060 (Telegram)
